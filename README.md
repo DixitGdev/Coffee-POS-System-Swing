@@ -1,4 +1,4 @@
-# 🌟 GUI-Swing-Java-Desktop-Application-POS-Terminal 🌟
+# 🌟 Desktop POS System for Coffee Shop - Java, Swing, H2 🌟
 
 This Java application is a sight to behold! A perfect blend of elegance, simplicity, and functionality, all under one roof! Built with Swing and the H2 embedded database, this app is a Point of Sale (POS) terminal, customized to fit the needs of a coffee shop business.
 
